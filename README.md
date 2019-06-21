@@ -1,2 +1,2 @@
 # kubernetes
-我的yaml文件
+kubernetes部署一些基本应用所需要的文件（yaml）
